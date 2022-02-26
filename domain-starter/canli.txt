@@ -1,0 +1,10 @@
+Canlıya Geçiş;
+Yeni kontrat deploy et
+ABI dosyalarını değiştir
+Yeni kontrat adresini app.js'ye yaz
+app.js'de mint servislerinde polygon mumbai olanları değiştir.
+ENV dosyalarını keyleri güncelle
+
+We need to deploy it again.
+We need to update the contract address on our frontend.
+We need to update the abi file on our frontend.
